@@ -207,7 +207,7 @@ a significant DoS attack vector against miners.
 # Execution
 
 Let us look at some simple executions. To do so, I have collected some useful tools in a single repo, 
-including forks of some nice nice tools provided by go-ethereum. 
+including forks of some nice tools provided by go-ethereum. 
 Make sure you have Go installed, set your `GOPATH` environment variable to whatever you want, 
 and add `$GOPATH/bin` to your `PATH`. Then run:
 
